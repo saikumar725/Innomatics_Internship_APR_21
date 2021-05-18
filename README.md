@@ -1,7 +1,7 @@
 # Innomatics_Internship_APR_21
 
+![correlation-1-1024x675](https://user-images.githubusercontent.com/80379608/118646223-8a4f6500-b7fd-11eb-8f23-d26ba04515a0.gif)
 
-![correlation-1-1024x675](https://user-images.githubusercontent.com/80379608/118645047-119bd900-b7fc-11eb-917e-55ffee72fec7.gif)
 
 ![mean](https://user-images.githubusercontent.com/80379608/118645190-41e37780-b7fc-11eb-99d6-bd31bf8336ad.gif)
 
